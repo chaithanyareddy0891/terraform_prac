@@ -10,3 +10,5 @@
 #Declarative way of creating infra
 
 terraform init -- > initialise terraform, it will connect with provider and download it.
+
+terraform plan -- > cant create resource, just plan it.
