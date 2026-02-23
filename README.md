@@ -7,3 +7,4 @@
 #Dependenct management
 #code re-use(DRY concept)
 
+#Declarative way of creating infra
