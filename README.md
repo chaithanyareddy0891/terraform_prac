@@ -8,3 +8,5 @@
 #code re-use(DRY concept)
 
 #Declarative way of creating infra
+
+terraform init -- > initialise terraform, it will connect with provider and download it.
